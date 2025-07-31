@@ -5,7 +5,7 @@
 */
 class FaviconSnakeGame {
   constructor(size = 64) { // 64 x 64
-    this.canvasSize = size;
+    this.canvasSize = size; // Game area
     this.cellSize = 8;
     this.gridCount = size / this.cellSize; // Number of cells per row/column
 
