@@ -1,252 +1,260 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20" viewBox="0 0 375 70"
-  preserveAspectRatio="xMidYMid meet" version="1.0">
-  <style>
-    .score {
-      font: 32px sans-serif;
-      fill: #FFFFFF;
-    }
-  </style>
-  <defs>
-    <g />
-    <clipPath id="d0db585c0d">
-      <path d="M 0.0078125 0 L 375 0 L 375 65.390625 L 0.0078125 65.390625 Z M 0.0078125 0 " clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="4d5ab05c44">
-      <path
-        d="M 367.5 65.390625 L 7.5 65.390625 C 3.359375 65.390625 0 62.03125 0 57.890625 L 0 7.496094 C 0 3.355469 3.359375 -0.00390625 7.5 -0.00390625 L 367.5 -0.00390625 C 371.640625 -0.00390625 375 3.355469 375 7.496094 L 375 57.890625 C 375 62.03125 371.640625 65.390625 367.5 65.390625 Z M 367.5 65.390625 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <linearGradient x1="734.013" gradientTransform="matrix(-0.255445, 0, 0, -0.255445, 375.001425, 65.390628)"
-      y1="0.0000296526" x2="734.013" gradientUnits="userSpaceOnUse" y2="255.987181" id="caddf134ae">
-      <stop stop-opacity="1" stop-color="rgb(25.898743%, 25.898743%, 25.898743%)" offset="0" />
-      <stop stop-opacity="1" stop-color="rgb(26.008606%, 26.008606%, 26.008606%)" offset="0.015625" />
-      <stop stop-opacity="1" stop-color="rgb(26.229858%, 26.229858%, 26.229858%)" offset="0.03125" />
-      <stop stop-opacity="1" stop-color="rgb(26.449585%, 26.449585%, 26.449585%)" offset="0.046875" />
-      <stop stop-opacity="1" stop-color="rgb(26.669312%, 26.669312%, 26.669312%)" offset="0.0625" />
-      <stop stop-opacity="1" stop-color="rgb(26.890564%, 26.890564%, 26.890564%)" offset="0.078125" />
-      <stop stop-opacity="1" stop-color="rgb(27.110291%, 27.110291%, 27.110291%)" offset="0.09375" />
-      <stop stop-opacity="1" stop-color="rgb(27.331543%, 27.331543%, 27.331543%)" offset="0.109375" />
-      <stop stop-opacity="1" stop-color="rgb(27.55127%, 27.55127%, 27.55127%)" offset="0.125" />
-      <stop stop-opacity="1" stop-color="rgb(27.770996%, 27.770996%, 27.770996%)" offset="0.140625" />
-      <stop stop-opacity="1" stop-color="rgb(27.992249%, 27.992249%, 27.992249%)" offset="0.15625" />
-      <stop stop-opacity="1" stop-color="rgb(28.211975%, 28.211975%, 28.211975%)" offset="0.171875" />
-      <stop stop-opacity="1" stop-color="rgb(28.431702%, 28.431702%, 28.431702%)" offset="0.1875" />
-      <stop stop-opacity="1" stop-color="rgb(28.652954%, 28.652954%, 28.652954%)" offset="0.203125" />
-      <stop stop-opacity="1" stop-color="rgb(28.872681%, 28.872681%, 28.872681%)" offset="0.21875" />
-      <stop stop-opacity="1" stop-color="rgb(29.093933%, 29.093933%, 29.093933%)" offset="0.234375" />
-      <stop stop-opacity="1" stop-color="rgb(29.31366%, 29.31366%, 29.31366%)" offset="0.25" />
-      <stop stop-opacity="1" stop-color="rgb(29.533386%, 29.533386%, 29.533386%)" offset="0.265625" />
-      <stop stop-opacity="1" stop-color="rgb(29.754639%, 29.754639%, 29.754639%)" offset="0.28125" />
-      <stop stop-opacity="1" stop-color="rgb(29.974365%, 29.974365%, 29.974365%)" offset="0.296875" />
-      <stop stop-opacity="1" stop-color="rgb(30.194092%, 30.194092%, 30.194092%)" offset="0.3125" />
-      <stop stop-opacity="1" stop-color="rgb(30.415344%, 30.415344%, 30.415344%)" offset="0.328125" />
-      <stop stop-opacity="1" stop-color="rgb(30.635071%, 30.635071%, 30.635071%)" offset="0.34375" />
-      <stop stop-opacity="1" stop-color="rgb(30.856323%, 30.856323%, 30.856323%)" offset="0.359375" />
-      <stop stop-opacity="1" stop-color="rgb(31.07605%, 31.07605%, 31.07605%)" offset="0.375" />
-      <stop stop-opacity="1" stop-color="rgb(31.295776%, 31.295776%, 31.295776%)" offset="0.390625" />
-      <stop stop-opacity="1" stop-color="rgb(31.517029%, 31.517029%, 31.517029%)" offset="0.40625" />
-      <stop stop-opacity="1" stop-color="rgb(31.736755%, 31.736755%, 31.736755%)" offset="0.421875" />
-      <stop stop-opacity="1" stop-color="rgb(31.956482%, 31.956482%, 31.956482%)" offset="0.4375" />
-      <stop stop-opacity="1" stop-color="rgb(32.177734%, 32.177734%, 32.177734%)" offset="0.453125" />
-      <stop stop-opacity="1" stop-color="rgb(32.397461%, 32.397461%, 32.397461%)" offset="0.46875" />
-      <stop stop-opacity="1" stop-color="rgb(32.618713%, 32.618713%, 32.618713%)" offset="0.484375" />
-      <stop stop-opacity="1" stop-color="rgb(32.83844%, 32.83844%, 32.83844%)" offset="0.5" />
-      <stop stop-opacity="1" stop-color="rgb(33.058167%, 33.058167%, 33.058167%)" offset="0.515625" />
-      <stop stop-opacity="1" stop-color="rgb(33.279419%, 33.279419%, 33.279419%)" offset="0.53125" />
-      <stop stop-opacity="1" stop-color="rgb(33.499146%, 33.499146%, 33.499146%)" offset="0.546875" />
-      <stop stop-opacity="1" stop-color="rgb(33.720398%, 33.720398%, 33.720398%)" offset="0.5625" />
-      <stop stop-opacity="1" stop-color="rgb(33.940125%, 33.940125%, 33.940125%)" offset="0.578125" />
-      <stop stop-opacity="1" stop-color="rgb(34.159851%, 34.159851%, 34.159851%)" offset="0.59375" />
-      <stop stop-opacity="1" stop-color="rgb(34.381104%, 34.381104%, 34.381104%)" offset="0.609375" />
-      <stop stop-opacity="1" stop-color="rgb(34.60083%, 34.60083%, 34.60083%)" offset="0.625" />
-      <stop stop-opacity="1" stop-color="rgb(34.820557%, 34.820557%, 34.820557%)" offset="0.640625" />
-      <stop stop-opacity="1" stop-color="rgb(35.041809%, 35.041809%, 35.041809%)" offset="0.65625" />
-      <stop stop-opacity="1" stop-color="rgb(35.261536%, 35.261536%, 35.261536%)" offset="0.671875" />
-      <stop stop-opacity="1" stop-color="rgb(35.482788%, 35.482788%, 35.482788%)" offset="0.6875" />
-      <stop stop-opacity="1" stop-color="rgb(35.702515%, 35.702515%, 35.702515%)" offset="0.703125" />
-      <stop stop-opacity="1" stop-color="rgb(35.922241%, 35.922241%, 35.922241%)" offset="0.71875" />
-      <stop stop-opacity="1" stop-color="rgb(36.143494%, 36.143494%, 36.143494%)" offset="0.734375" />
-      <stop stop-opacity="1" stop-color="rgb(36.36322%, 36.36322%, 36.36322%)" offset="0.75" />
-      <stop stop-opacity="1" stop-color="rgb(36.582947%, 36.582947%, 36.582947%)" offset="0.765625" />
-      <stop stop-opacity="1" stop-color="rgb(36.804199%, 36.804199%, 36.804199%)" offset="0.78125" />
-      <stop stop-opacity="1" stop-color="rgb(37.023926%, 37.023926%, 37.023926%)" offset="0.796875" />
-      <stop stop-opacity="1" stop-color="rgb(37.245178%, 37.245178%, 37.245178%)" offset="0.8125" />
-      <stop stop-opacity="1" stop-color="rgb(37.464905%, 37.464905%, 37.464905%)" offset="0.828125" />
-      <stop stop-opacity="1" stop-color="rgb(37.684631%, 37.684631%, 37.684631%)" offset="0.84375" />
-      <stop stop-opacity="1" stop-color="rgb(37.905884%, 37.905884%, 37.905884%)" offset="0.859375" />
-      <stop stop-opacity="1" stop-color="rgb(38.12561%, 38.12561%, 38.12561%)" offset="0.875" />
-      <stop stop-opacity="1" stop-color="rgb(38.345337%, 38.345337%, 38.345337%)" offset="0.890625" />
-      <stop stop-opacity="1" stop-color="rgb(38.566589%, 38.566589%, 38.566589%)" offset="0.90625" />
-      <stop stop-opacity="1" stop-color="rgb(38.786316%, 38.786316%, 38.786316%)" offset="0.921875" />
-      <stop stop-opacity="1" stop-color="rgb(39.007568%, 39.007568%, 39.007568%)" offset="0.9375" />
-      <stop stop-opacity="1" stop-color="rgb(39.227295%, 39.227295%, 39.227295%)" offset="0.953125" />
-      <stop stop-opacity="1" stop-color="rgb(39.447021%, 39.447021%, 39.447021%)" offset="0.96875" />
-      <stop stop-opacity="1" stop-color="rgb(39.668274%, 39.668274%, 39.668274%)" offset="0.984375" />
-      <stop stop-opacity="1" stop-color="rgb(39.888%, 39.888%, 39.888%)" offset="1" />
-    </linearGradient>
-    <clipPath id="1f0c792d95">
-      <path
-        d="M 26.027344 16.171875 L 64.179688 16.171875 L 64.179688 49.210938 L 26.027344 49.210938 Z M 26.027344 16.171875 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="6a1d65ec09">
-      <path d="M 64.179688 16.171875 L 45.105469 49.210938 L 26.027344 16.171875 Z M 64.179688 16.171875 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="5c146b7c7e">
-      <path
-        d="M 35.566406 16.167969 L 54.640625 16.167969 L 54.640625 32.6875 L 35.566406 32.6875 Z M 35.566406 16.167969 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="8be9d95980">
-      <path d="M 54.640625 16.167969 L 45.101562 32.6875 L 35.566406 16.167969 Z M 54.640625 16.167969 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="5f36c2f0d9">
-      <path
-        d="M 26.027344 16.167969 L 45.101562 16.167969 L 45.101562 32.6875 L 26.027344 32.6875 Z M 26.027344 16.167969 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="b2f5d321c1">
-      <path d="M 45.101562 16.167969 L 35.566406 32.6875 L 26.027344 16.167969 Z M 45.101562 16.167969 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="cbc9386c44">
-      <path
-        d="M 290.523438 0.324219 L 374.996094 0.324219 L 374.996094 65.066406 L 290.523438 65.066406 Z M 290.523438 0.324219 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="08118f1641">
-      <path
-        d="M 367.496094 65.066406 L 298.132812 65.066406 C 293.992188 65.066406 290.632812 61.710938 290.632812 57.566406 L 290.632812 7.824219 C 290.632812 3.679688 293.992188 0.324219 298.132812 0.324219 L 367.496094 0.324219 C 371.640625 0.324219 374.996094 3.679688 374.996094 7.824219 L 374.996094 57.566406 C 374.996094 61.710938 371.640625 65.066406 367.496094 65.066406 Z M 367.496094 65.066406 "
-        clip-rule="nonzero" />
-    </clipPath>
-    <clipPath id="bb8ccd363c">
-      <path
-        d="M 290.636719 0.324219 L 366.921875 0.324219 L 366.921875 65.070312 L 290.636719 65.070312 Z M 290.636719 0.324219 "
-        clip-rule="nonzero" />
-    </clipPath>
-  </defs>
-  <g clip-path="url(#d0db585c0d)">
-    <g clip-path="url(#4d5ab05c44)">
-      <path fill="url(#caddf134ae)" d="M 375 65.390625 L 375 0 L 0.0078125 0 L 0.0078125 65.390625 Z M 375 65.390625 "
-        fill-rule="nonzero" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="100%" height="100%" viewBox="-432 -432 864 864" translate="no">
+ <style type="text/css">
+.main { font-family:Helvetica,Arial,sans-serif; font-size:40px; text-anchor:end;
+        fill:none; stroke-opacity:0.75; stroke-width:2; stroke-linecap:round; cursor:default; }
+.main:hover   { fill-opacity:0.2; stroke-opacity:0.2; }
+.active:hover { fill-opacity:1;   stroke-opacity:1; stroke-width:3; }
+.nofade       { fill-opacity:1;   stroke-opacity:1; pointer-events:none; }
+.vab  { font-style:italic; font-weight:bold; font-size:24px; text-anchor:middle; stroke:none; }
+.rule { fill:none; stroke-width:1; }
+path, ellipse { pointer-events:none; }
+text { stroke:none; stroke-width:1px; }
+a    { outline:none; }
+@keyframes         rot { from { transform:         rotate(360deg); }
+                         to   { transform:         rotate(0deg);   } }
+@-moz-keyframes    rot { from { -moz-transform:    rotate(360deg); }
+                         to   { -moz-transform:    rotate(0deg);   } }
+@-webkit-keyframes rot { from { -webkit-transform: rotate(360deg); }
+                         to   { -webkit-transform: rotate(0deg);   } }
+.rot_sun { animation:         rot 8766s  linear infinite;
+           -moz-animation:    rot 8766s  linear infinite;
+           -webkit-animation: rot 8766s  linear infinite; }
+.rot_gra { animation:         rot 24.19s linear infinite;
+           -moz-animation:    rot 24.19s linear infinite;
+           -webkit-animation: rot 24.19s linear infinite; }
+.rot_geo { animation:         rot 23.93s linear infinite;
+           -moz-animation:    rot 23.93s linear infinite;
+           -webkit-animation: rot 23.93s linear infinite; }
+.rot_gal { animation:         rot 14.37s linear infinite;
+           -moz-animation:    rot 14.37s linear infinite;
+           -webkit-animation: rot 14.37s linear infinite; }
+.rot_com { animation:         rot 12.62s linear infinite;
+           -moz-animation:    rot 12.62s linear infinite;
+           -webkit-animation: rot 12.62s linear infinite; }
+.rot_gps { animation:         rot 11.97s linear infinite;
+           -moz-animation:    rot 11.97s linear infinite;
+           -webkit-animation: rot 11.97s linear infinite; }
+.rot_glo { animation:         rot 11.25s linear infinite;
+           -moz-animation:    rot 11.25s linear infinite;
+           -webkit-animation: rot 11.25s linear infinite; }
+.rot_iri { animation:         rot  1.7s  linear infinite;
+           -moz-animation:    rot  1.7s  linear infinite;
+           -webkit-animation: rot  1.7s  linear infinite; }
+.rot_hub { animation:         rot  1.6s  linear infinite;
+           -moz-animation:    rot  1.6s  linear infinite;
+           -webkit-animation: rot  1.6s  linear infinite; }
+.rot_iss { animation:         rot  1.5s  linear infinite;
+           -moz-animation:    rot  1.5s  linear infinite;
+           -webkit-animation: rot  1.5s  linear infinite; }
+.rot_min { animation:         rot  1s    linear infinite;
+           -moz-animation:    rot  1s    linear infinite;
+           -webkit-animation: rot  1s    linear infinite; }
+.rot_hr  { animation:         rot  12s   linear infinite;
+           -moz-animation:    rot  12s   linear infinite;
+           -webkit-animation: rot  12s   linear infinite; }
+ </style>
+ <defs>
+  <radialGradient id="gradient_shade" cx="50%" cy="50%" r="67%" fx="33%" fy="33%">
+   <stop offset="10%" stop-color="#000000" stop-opacity="0"/>
+   <stop offset="99%" stop-color="#000000" stop-opacity="0.75"/>
+  </radialGradient>
+  <radialGradient id="gradient_vab" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+   <stop offset="7.4%" stop-color="#ff9900" stop-opacity="0"/>
+   <stop offset="9.4%" stop-color="#ff9900" stop-opacity="0.3"/>
+   <stop offset="10.4%" stop-color="#ff9900" stop-opacity="0.3"/>
+   <stop offset="12.4%" stop-color="#ff9900" stop-opacity="0"/>
+   <stop offset="19.4%" stop-color="#ffffff" stop-opacity="0"/>
+   <stop offset="21.4%" stop-color="#ffffff" stop-opacity="0.2"/>
+   <stop offset="66.4%" stop-color="#ffffff" stop-opacity="0"/>
+  </radialGradient>
+  <path id="km" class="rule" d="M 10,0 V -10 M 20,0 V -10 M 30,0 V -10 M 40,0 V -10 M 50,0 V -20 M 60,0 V -10 M 70,0 V -10 M 80,0 V -10 M 90,0 V -10 M 100,0 V -30"/>
+  <path id="mi" class="rule" d="M 16.1,0 V 10 M 32.2,0 V 10 M 48.3,0 V 10 M 64.4,0 V 10 M 80.5,0 V 20 M 96.6,0 V 10 M 112.7,0 V 10 M 128.8,0 V 10 M 144.9,0 V 10 M 161,0 V 30"/>
+  <circle id="satellite" cx="0" cy="0" r="3"/>
+  <path id="tick" d="M 0,-50 V -60"/>
+  <g id="tick_3" stroke="#cccccc">
+   <use xlink:href="#tick" stroke="#999999"/>
+   <use xlink:href="#tick" transform="rotate(30)"/>
+   <use xlink:href="#tick" transform="rotate(60)"/>
+  </g>
+  <clipPath id="clip_earth"><ellipse cx="0" cy="0" rx="100" ry="100"/></clipPath>
+ </defs>
+ <g class="main">
+  <circle cx="0" cy="0" r="99999" fill-opacity="0" />
+  <g id="vab" class="active vab">
+   <ellipse cx="0" cy="0" rx="1000" ry="1000" fill="url(#gradient_vab)"/>
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Van_Allen_radiation_belt">
+     <text lang="en-US" x="-6" y="-109" fill="#cc6600" id="trsvg122"><tspan id="trsvg1">inner   van</tspan><tspan x="-6" y="-86" id="trsvg2">allen   belt</tspan></text>
+     <text lang="en-US" x="80" y="358" fill="#9999cc" id="trsvg123"><tspan id="trsvg3">outer van</tspan><tspan x="80" y="380" id="trsvg4">allen belt</tspan></text>
+    </a>
+  </g>
+  <g id="grave" class="active" stroke="#cc9999" fill="#cc9999" text-anchor="end">
+   <path d="M 0,-425 H 140"/>
+   <ellipse cx="0" cy="0" rx="425" ry="425" fill="none"/>
+   <g class="rot_gra"><use xlink:href="#satellite" transform="translate(0,-425)"/></g>
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Graveyard_orbit">
+     <text lang="en-US" x="430" y="-400" id="trsvg130"><tspan id="trsvg17">graveyard orbit</tspan><tspan x="430" y="-366" font-size="28" id="trsvg18">(geo+300 km)</tspan></text>
+    </a>
+  </g>
+  <g id="geo" class="active" stroke="#666666" fill="#666666" text-anchor="start">
+   <path d="M 0,-422 H -170"/>
+   <ellipse cx="0" cy="0" rx="422" ry="422" fill="none"/>
+   <g class="rot_geo"><use xlink:href="#satellite" transform="translate(0,-422)"/><path d="M 0,0 V -422" stroke-dasharray="1,4"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Geostationary_orbit">
+     <text lang="en-US" x="-425" y="-400" id="trsvg134"><tspan id="trsvg25">geostationary</tspan><tspan x="-425" y="-365" id="trsvg26">earth orbit</tspan></text>
+    </a>
+   
+  </g>
+  <g id="galileo" class="active" stroke="#009999" fill="#009999">
+   <path d="M 0,-296 H -145"/>
+   <ellipse cx="0" cy="0" rx="296" ry="296" fill="none"/>
+   <g class="rot_gal"><use xlink:href="#satellite" transform="translate(0,-296)"/></g>
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)">
+     <text lang="en-US" x="-145" y="-296" id="trsvg138"><tspan id="trsvg33">galileo</tspan></text>
+    </a>
+  </g>
+  <g id="beidou" class="active" stroke="#cc9900" fill="#cc9900" text-anchor="end">
+   <path d="M 0,-276 H 230"/>
+   <ellipse cx="0" cy="0" rx="276" ry="276" fill="none"/>
+   <g class="rot_com"><use xlink:href="#satellite" transform="translate(0,-276)"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/BeiDou">
+     <text lang="en-US" x="430" y="-295" id="trsvg142"><tspan id="trsvg37">beidou</tspan><tspan x="430" y="-270" font-size="28" id="trsvg38">meo satellites</tspan></text>
+    </a>
+   
+  </g>
+  <g id="gps" class="active" stroke="#0000ff" fill="#0000ff">
+   <path d="M 0,-266 H -145"/>
+   <ellipse cx="0" cy="0" rx="266" ry="266" fill="none"/>
+   <g class="rot_gps"><use xlink:href="#satellite" transform="translate(0,-266)"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Global_Positioning_System">
+     <text lang="en-US" x="-145" y="-261" id="trsvg146"><tspan id="trsvg45">gps</tspan></text>
+    </a>
+   
+  </g>
+  <g id="glonass" class="active" stroke="#ff0000" fill="#ff0000" text-anchor="end">
+   <path d="M 0,-255 H 230"/>
+   <ellipse cx="0" cy="0" rx="255" ry="255" fill="none"/>
+   <g class="rot_glo"><use xlink:href="#satellite" transform="translate(0,-255)"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/GLONASS">
+     
+     <text lang="en-US" x="430" y="-228" id="trsvg150"><tspan id="trsvg49">glonass</tspan></text>
+    </a>
+   
+  </g>
+  <g id="iridium" class="active" stroke="#660099" fill="#660099">
+   <path d="M 0,-71.8 H -80"/>
+   <ellipse cx="0" cy="0" rx="71.8" ry="71.8" fill="none"/>
+   <g class="rot_iri"><use xlink:href="#satellite" transform="translate(0,-71.8)"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Iridium_satellite_constellation">
+     
+     <text lang="en-US" x="-80" y="-71.8" id="trsvg154"><tspan id="trsvg53">iridium</tspan></text>
+    </a>
+   
+  </g>
+  <g id="iss" class="active" stroke="#ff00cc" fill="#ff00cc" text-anchor="start">
+   <path d="M 0,67.5 H 80"/>
+   <ellipse cx="0" cy="0" rx="67.5" ry="67.5" fill="none"/>
+   <g class="rot_iss"><use xlink:href="#satellite" transform="translate(0,67.5)"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/International_Space_Station">
+     
+     <text lang="en-US" x="80" y="67.5" id="trsvg158"><tspan id="trsvg57">iss</tspan></text>
+    </a>
+   
+  </g>
+  <g id="hst" class="active" stroke="#00cc00" fill="#00cc00" text-anchor="start">
+   <path d="M 0,-69.4 H 80"/>
+   <ellipse cx="0" cy="0" rx="69.4" ry="69.4" fill="none"/>
+   <g class="rot_hub"><use xlink:href="#satellite" transform="translate(0,-69.4)"/></g>
+   
+    <a target="info" xlink:href="https://en.wikipedia.org/wiki/Hubble_Space_Telescope">
+     <text lang="en-US" x="80" y="-69.4" id="trsvg162"><tspan id="trsvg61">hubble</tspan></text>
+    </a>
+   
+  </g>
+  <g font-size="24" text-anchor="middle" stroke="#000000" stroke-width="1" fill="#000000">
+   <g class="active">
+    <path class="rule" d="M 0,0 H -490"/>
+    <use xlink:href="#km" transform="translate(-100,0)"/>
+    <use xlink:href="#km" transform="translate(-200,0)"/>
+    <use xlink:href="#km" transform="translate(-300,0)"/>
+    <use xlink:href="#km" transform="translate(-400,0)"/>
+    <use xlink:href="#km" transform="translate(-500,0)"/>
+    <use xlink:href="#mi" transform="translate(-161,0)"/>
+    <use xlink:href="#mi" transform="translate(-322,0)"/>
+    <use xlink:href="#mi" transform="translate(-483,0)"/>
+    <text lang="en-US" x="-115" y="-35" id="trsvg166" style="stroke:#cccccc;"><tspan id="trsvg65">10000 km</tspan></text>
+    <text lang="en-US" x="-215" y="-35" id="trsvg167" style="stroke:#cccccc;"><tspan id="trsvg66">20000</tspan></text>
+    <text lang="en-US" x="-310" y="-35" id="trsvg168" style="stroke:#cccccc;"><tspan id="trsvg67">30000</tspan></text>
+    <text lang="en-US" x="-432" y="-35" text-anchor="start" id="trsvg169" style="stroke:#cccccc;"><tspan id="trsvg68">40000</tspan></text>
+    <text lang="en-US" x="-160" y="55" id="trsvg170" style="stroke:#cccccc;"><tspan id="trsvg69">10000 mi</tspan></text>
+    <text lang="en-US" x="-330" y="55" id="trsvg171" style="stroke:#cccccc;"><tspan id="trsvg70">20000</tspan></text>
+     <text lang="en-US" x="-390" y="-90" font-weight="bold" text-anchor="start" id="trsvg172" style="stroke:#cccccc;"><tspan id="trsvg71">radius</tspan><tspan x="-390" y="-70" id="trsvg72">of orbit</tspan></text>
+   </g>
+   <g class="active">
+    <g transform="translate(64,0)">
+     <path class="rule" d="M 0,0 H 483"/>
+     <use xlink:href="#km"/>
+     <use xlink:href="#km" transform="translate(100,0)"/>
+     <use xlink:href="#km" transform="translate(200,0)"/>
+     <use xlink:href="#km" transform="translate(300,0)"/>
+     <use xlink:href="#mi"/>
+     <use xlink:href="#mi" transform="translate(161,0)"/>
+     <use xlink:href="#mi" transform="translate(322,0)"/>
+     <text lang="en-US" x="100" y="-35" id="trsvg176" style="stroke:#cccccc;"><tspan id="trsvg79">10000</tspan></text>
+     <text lang="en-US" x="190" y="-35" id="trsvg177" style="stroke:#cccccc;"><tspan id="trsvg80">20000</tspan></text>
+     <text lang="en-US" x="300" y="-35" id="trsvg178" style="stroke:#cccccc;"><tspan id="trsvg81">30000 km</tspan></text>
+     <text lang="en-US" x="150" y="55" id="trsvg179" style="stroke:#cccccc;"><tspan id="trsvg82">10000</tspan></text>
+     <text lang="en-US" x="300" y="55" id="trsvg180" style="stroke:#cccccc;"><tspan id="trsvg83">20000 mi</tspan></text>
+     
+      <text lang="en-US" x="345" y="-90" font-weight="bold" text-anchor="end" id="trsvg181" style="stroke:#cccccc;"><tspan id="trsvg84">height above</tspan><tspan x="345" y="-70" id="trsvg85">sea level</tspan></text>
+      <!--<text lang="en-US" x="345" y="-70" font-weight="bold" text-anchor="end" id="trsvg183"><tspan id="trsvg88">altitude</tspan></text>-->
+     
     </g>
-  </g>
-  <g fill="#ffbd59" fill-opacity="1">
-    <g transform="translate(71.550689, 46.816421)">
-      <g>
-        <path
-          d="M 1.75 -30.53125 L 15.796875 -30.53125 C 16.203125 -30.53125 16.40625 -30.328125 16.40625 -29.921875 L 16.40625 -26.109375 C 16.40625 -25.703125 16.203125 -25.5 15.796875 -25.5 L 11.375 -25.5 L 11.375 -0.609375 C 11.375 -0.203125 11.171875 0 10.765625 0 L 6.796875 0 C 6.390625 0 6.1875 -0.203125 6.1875 -0.609375 L 6.1875 -25.5 L 1.75 -25.5 C 1.34375 -25.5 1.140625 -25.703125 1.140625 -26.109375 L 1.140625 -29.921875 C 1.140625 -30.328125 1.34375 -30.53125 1.75 -30.53125 Z M 1.75 -30.53125 " />
-      </g>
+   </g>
+   <g class="active" text-anchor="start">
+    <path class="rule" d="M 0,0 V -432 M 0,-51 H 10 M 0,-81 H 10 M 0,-106 H 10 M 0,-128 H 10 M 0,-149 H 20 M 0,-168 H 10 M 0,-186 H 10 M 0,-203 H 10 M 0,-220 H 10 M 0,-236 H 30 M 0,-251 H 10 M 0,-266 H 10 M 0,-281 H 10 M 0,-295 H 10 M 0,-309 H 20 M 0,-322 H 10 M 0,-336 H 10 M 0,-349 H 10 M 0,-362 H 10 M 0,-374 H 30 M 0,-387 H 10 M 0,-399 H 10 M 0,-411 H 10 M 0,-423 H 10"/>
+     <g>
+      <text lang="en-US" x="-15" y="-350" font-weight="bold" text-anchor="end" id="trsvg185" style="stroke:#cccccc;"><tspan id="trsvg91">orbital period</tspan></text>
+      <text lang="en-US" x="30" y="-139" id="trsvg186" style="stroke:#cccccc;"><tspan id="trsvg92">5 hours</tspan></text>
+      <text lang="en-US" x="30" y="-221" id="trsvg187" style="stroke:#cccccc;"><tspan id="trsvg93">10 hours</tspan></text>
+      <text lang="en-US" x="30" y="-299" id="trsvg188" style="stroke:#cccccc;"><tspan id="trsvg94">15 hours</tspan></text>
+      <text lang="en-US" x="30" y="-364" id="trsvg189" style="stroke:#cccccc;"><tspan id="trsvg95">20 hours</tspan></text>
+     </g>
+   </g>
+   <g class="active" text-anchor="start">
+    <path class="rule" d="M 0,69 H -10 M 0,78 H -10 M 0,89 H -20 M 0,102 H -10 M 0,118 H -10 M 0,139 H -10 M 0,165 H -10 M 0,200 H -30 M 0,247 H -10 M 0,312 H -10 M 0,408 H -10 M 0,0 V 432 M 0,66 H 10 M 0,71 H 10 M 0,77 H 10 M 0,83 H 20 M 0,90 H 10 M 0,98 H 10 M 0,107 H 10 M 0,117 H 10 M 0,129 H 30 M 0,143 H 10 M 0,160 H 10 M 0,179 H 10 M 0,202 H 10 M 0,230 H 20 M 0,264 H 10 M 0,306 H 10 M 0,359 H 10 M 0,427 H 10"/>
+    <text lang="en-US" x="30" y="93" id="trsvg205" style="stroke:#cccccc;"><tspan id="trsvg111">25000 km/h</tspan></text>
+    <text lang="en-US" x="30" y="139" id="trsvg206" style="stroke:#cccccc;"><tspan id="trsvg112">20000 km/h</tspan></text>
+    <text lang="en-US" x="30" y="235" id="trsvg207" style="stroke:#cccccc;"><tspan id="trsvg113">15000 km/h</tspan></text>
+    <text lang="en-US" x="15" y="429" id="trsvg208" style="stroke:#cccccc;"><tspan id="trsvg114">11000 km/h</tspan></text>
+    <text lang="en-US" x="-30" y="99" text-anchor="end" id="trsvg209" style="stroke:#cccccc;"><tspan id="trsvg115">15000 mph</tspan></text>
+    <text lang="en-US" x="-30" y="210" text-anchor="end" id="trsvg210" style="stroke:#cccccc;"><tspan id="trsvg116">10000 mph</tspan></text>
+    <text lang="en-US" x="-15" y="415" text-anchor="end" id="trsvg211" style="stroke:#cccccc;"><tspan id="trsvg117">7000 mph</tspan></text>
+     <g>
+      <text lang="en-US" x="-15" y="350" font-weight="bold" text-anchor="end" id="trsvg215" style="stroke:#cccccc;"><tspan id="trsvg121">orbital speed</tspan></text>
+     </g>
+   </g>
+   <g id="earth" class="nofade">
+    <ellipse cx="0" cy="0" rx="64.28" ry="64.28" fill="#0066ff" stroke="#66ccff"/>
+    <g class="rot_geo">
+     <path transform="scale(0.6378)" fill="#ffcc00" stroke="none" clip-path="url(#clip_earth)" d="M -15,-22 C -18,-28 -9,-20 -13,-28 -9,-30 -12,-31 -6,-34 -2,-36 -9,-35 -3,-43 2,-38 -6,-34 -2,-31 -3,-38 20,-31 8,-41 9,-53 12,-47 10,-42 20,-56 19,-43 23,-50 28,-50 21,-54 28,-55 28,-50 29,-43 35,-46 26,-54 36,-44 35,-56 51,-65 53,-49 59,-52 59,-62 62,-61 68,-59 69,-57 67,-46 74,-52 76,-58 70,-55 76,-63 79,-52 76,-58 75,-50 62,-41 76,-43 70,-40 62,-29 77,-29 80,-23 84,-25 99,-19 76,-11 77,1 71,-11 71,6 67,23 64,12 63,20 79,17 64,12 74,7 81,11 79,22 81,31 72,33 57,32 59,36 95,34 79,22 85,19 100,37 82,45 108,48 101,68 114,55 110,67 111,71 113,85 96,100 85,98 66,99 70,87 52,79 60,92 55,80 41,77 28,102 13,85 10,74 11,61 35,48 34,53 49,48 46,45 46,40 60,38 53,29 49,26 51,40 43,34 46,25 49,26 49,21 44,21 45,23 42,22 42,22 43,24 44,26 34,26 44,31 43,34 38,39 49,36 41,40 22,36 32,42 39,41 35,48 44,46 34,46 44,41 24,40 23,50 23,55 16,61 14,50 24,45 21,44 16,44 14,40 25,37 19,30 22,26 19,35 24,31 33,24 21,24 20,17 18,18 31,35 20,27 20,32 13,28 16,24 16,19 12,14 22,10 26,13 22,5 23,2 26,-2 12,-1 23,-3 16,-3 16,-8 10,-10 8,-14 14,-12 10,-15 7,-16 10,-22 3,-19 -7,-26 -6,-17 -15,-22  M -26,-30 C -28,-14 -24,-35 -15,-17 -16,-7 -24,-14 -22,-5 -28,8 -21,7 -18,3 -13,9 -29,11 -19,11 -23,18 -23,8 -24,16 -31,7 -36,12 -32,20 -36,22 -36,29 -31,22 -29,28 -25,9 -23,25 -20,31 -23,35 -22,42 -35,36 -11,39 -34,33 -22,37 -36,34 -28,40 -41,39 -29,38 -37,37 -41,39 -41,34 -46,39 -59,32 -56,43 -60,40 -60,35 -54,37 -62,29 -61,11 -87,28 -69,32 -64,42 -79,30 -71,43 -82,50 -70,50 -72,56 -56,58 -67,61 -53,71 -48,86 -42,78 -41,90 -38,96 -14,102 -19,107 -20,110 -30,110 -28,114 -32,121 -34,121 -51,117 -51,122 -67,125 -77,114 -66,127 -89,115 -93,112 -88,122 -105,106 -101,116 -116,108 -106,120 -105,122 -126,108 -124,92 -111,98 -104,88 -109,102 -86,84 -94,66 -87,70 -88,58 -81,53 -79,62 -74,57 -72,51 -74,52 -76,53 -80,40 -76,38 -77,29 -79,25 -79,10 -75,13 -74,10 -71,6 -66,1 -74,5 -73,7 -75,8 -74,-0 -64,0 -62,-6 -46,-15 -59,0 -31,-15 -24,-21 -30,-23 -26,-30  M 13,-141 C -15,-128 24,-122 23,-109 28,-109 25,-120 33,-114 40,-109 38,-108 33,-109 49,-99 48,-108 53,-103 73,-96 58,-108 81,-94 90,-96 82,-102 87,-107 73,-122 59,-116 44,-131 33,-133 42,-142 13,-141  M 12,-106 C 19,-102 27,-101 29,-97 42,-98 29,-95 40,-92 42,-100 25,-100 33,-104 30,-105 26,-108 21,-108 16,-103 19,-112 7,-111 2,-111 19,-107 12,-106  M 108,31 C 115,25 114,33 120,37 121,39 123,43 119,45 111,49 117,41 111,44 108,43 109,40 110,37 110,37 112,34 108,31  M 12,-52 C 11,-54 13,-57 15,-58 16,-61 21,-61 25,-56 23,-55 14,-60 13,-50 7,-48 7,-53 12,-52  M 43,-81 C 40,-73 48,-71 42,-69 44,-62 49,-69 48,-71 45,-77 59,-69 48,-76 53,-76 47,-83 43,-81  M 48,-86 C 50,-82 48,-86 55,-82 65,-82 58,-86 61,-85 62,-93 58,-81 56,-90 54,-89 59,-84 48,-86  M 55,-77 C 55,-72 57,-73 60,-72 63,-71 68,-71 71,-68 74,-74 67,-83 63,-81 53,-81 63,-76 55,-77  M -21,-3 C -22,-5 -13,-1 -15,-0 -14,7 -16,8 -18,-1 -21,2 -16,3 -22,5 -27,0 -22,0 -21,-3  M -43,-139 C -45,-139 -49,-137 -50,-139 -42,-142 -41,-150 -30,-148 -31,-145 -37,-147 -43,-139  M -42,-132 C -45,-129 -50,-134 -56,-131 -59,-127 -54,-142 -46,-136 -52,-133 -45,-134 -42,-132  M -15,10 C -16,17 -11,18 -21,24 -28,8 -19,23 -18,13 -21,7 -17,6 -15,10  M 12,36 C 11,29 13,33 17,36 23,38 16,39 15,42 14,35 15,37 12,36  M -52,-54 C -55,-50 -61,-47 -60,-50 -62,-54 -59,-48 -52,-54  M -8,14 C -17,10 -1,3 2,9 3,33 -10,22 -10,32 -18,30 -10,20 -8,14  M 42,-62 C 41,-59 38,-62 38,-60 38,-62 40,-63 42,-62  M 57,-56 C 54,-57 53,-59 53,-54 58,-54 56,-53 57,-56  M 24,-144 C 21,-145 15,-142 16,-145 22,-153 32,-137 24,-144  M 69,-84 C 75,-77 76,-75 80,-69 81,-74 72,-83 69,-84  M -61,53 C -57,56 -52,61 -54,57 -56,53 -60,50 -61,53  M 80,-69 C 78,-71 78,-49 81,-48 81,-53 85,-59 80,-69  M -66,38 C -62,36 -57,56 -60,50 -65,40 -60,45 -66,38  M 12,41 C 14,40 13,38 12,36 9,35 10,42 12,41  M 0,27 C 2,26 4,25 5,27 2,31 1,29 0,27  M -5,5 C -4,7 -14,12 -16,8 -15,5 -9,2 -5,5  M 88,-26 C 85,-28 86,-26 85,-23 90,-22 91,-25 88,-26  M 8,6 C 13,11 9,8 10,10 5,10 7,9 8,6  M 14,-2 C 17,-1 17,4 21,3 23,7 14,3 14,-2"/>
     </g>
+    <ellipse class="rot_sun" cx="0" cy="0" rx="63.78" ry="63.78" fill="url(#gradient_shade)"/>
+   </g>
+   <g id="clock" class="nofade" transform="translate(360,360) scale(-1,1)" stroke-width="2" stroke="#999999">
+    <use xlink:href="#tick_3"/>
+    <use xlink:href="#tick_3" transform="rotate(90)"/>
+    <use xlink:href="#tick_3" transform="rotate(180)"/>
+    <use xlink:href="#tick_3" transform="rotate(270)"/>
+    <path class="rot_min" d="M 0,0 V -40"/>
+    <path class="rot_hr" d="M 0,0 V -20"/>
+   </g>
   </g>
-  <g fill="#ffbd59" fill-opacity="1">
-    <g transform="translate(90.63472, 46.816421)">
-      <g>
-        <path
-          d="M 17.59375 -25.046875 L 17.59375 -15.734375 C 17.59375 -13.179688 16.664062 -11.5 14.8125 -10.6875 L 17.4375 -0.6875 C 17.570312 -0.226562 17.394531 0 16.90625 0 L 12.9375 0 C 12.582031 0 12.367188 -0.175781 12.296875 -0.53125 L 9.734375 -10.234375 L 7.09375 -10.234375 L 7.09375 -0.609375 C 7.09375 -0.203125 6.890625 0 6.484375 0 L 2.515625 0 C 2.109375 0 1.90625 -0.203125 1.90625 -0.609375 L 1.90625 -29.921875 C 1.90625 -30.328125 2.109375 -30.53125 2.515625 -30.53125 L 12.09375 -30.53125 C 13.90625 -30.53125 15.273438 -30.066406 16.203125 -29.140625 C 17.128906 -28.210938 17.59375 -26.847656 17.59375 -25.046875 Z M 7.09375 -15.265625 L 10.875 -15.265625 C 11.894531 -15.265625 12.40625 -15.773438 12.40625 -16.796875 L 12.40625 -23.96875 C 12.40625 -24.988281 11.894531 -25.5 10.875 -25.5 L 7.09375 -25.5 Z M 7.09375 -15.265625 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffbd59" fill-opacity="1">
-    <g transform="translate(111.665239, 46.816421)">
-      <g>
-        <path
-          d="M 12.90625 -30.53125 L 16.40625 -30.53125 C 16.613281 -30.53125 16.789062 -30.453125 16.9375 -30.296875 C 17.09375 -30.148438 17.171875 -29.976562 17.171875 -29.78125 L 17.171875 -5.5 C 17.171875 -3.71875 16.707031 -2.351562 15.78125 -1.40625 C 14.851562 -0.46875 13.488281 0 11.6875 0 L 7.40625 0 C 5.625 0 4.257812 -0.46875 3.3125 -1.40625 C 2.375 -2.351562 1.90625 -3.71875 1.90625 -5.5 L 1.90625 -29.78125 C 1.90625 -29.976562 1.976562 -30.148438 2.125 -30.296875 C 2.28125 -30.453125 2.460938 -30.53125 2.671875 -30.53125 L 6.34375 -30.53125 C 6.539062 -30.53125 6.710938 -30.453125 6.859375 -30.296875 C 7.015625 -30.148438 7.09375 -29.976562 7.09375 -29.78125 L 7.09375 -6.5625 C 7.09375 -5.539062 7.601562 -5.03125 8.625 -5.03125 L 10.609375 -5.03125 C 11.628906 -5.03125 12.140625 -5.539062 12.140625 -6.5625 L 12.140625 -29.78125 C 12.140625 -29.976562 12.210938 -30.148438 12.359375 -30.296875 C 12.515625 -30.453125 12.695312 -30.53125 12.90625 -30.53125 Z M 12.90625 -30.53125 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffbd59" fill-opacity="1">
-    <g transform="translate(132.27592, 46.816421)">
-      <g>
-        <path
-          d="M 7.40625 -30.53125 L 11.6875 -30.53125 C 13.488281 -30.53125 14.851562 -30.066406 15.78125 -29.140625 C 16.707031 -28.210938 17.171875 -26.847656 17.171875 -25.046875 L 17.171875 -21 C 17.171875 -20.59375 16.96875 -20.390625 16.5625 -20.390625 L 12.59375 -20.390625 C 12.1875 -20.390625 11.984375 -20.59375 11.984375 -21 L 11.984375 -23.96875 C 11.984375 -24.988281 11.472656 -25.5 10.453125 -25.5 L 8.625 -25.5 C 7.601562 -25.5 7.09375 -24.988281 7.09375 -23.96875 L 7.09375 -18.703125 L 16.1875 -15.734375 C 16.84375 -15.453125 17.171875 -14.976562 17.171875 -14.3125 L 17.171875 -5.5 C 17.171875 -3.71875 16.707031 -2.351562 15.78125 -1.40625 C 14.851562 -0.46875 13.488281 0 11.6875 0 L 7.40625 0 C 5.625 0 4.257812 -0.46875 3.3125 -1.40625 C 2.375 -2.351562 1.90625 -3.71875 1.90625 -5.5 L 1.90625 -9.5 C 1.90625 -9.90625 2.109375 -10.109375 2.515625 -10.109375 L 6.484375 -10.109375 C 6.890625 -10.109375 7.09375 -9.90625 7.09375 -9.5 L 7.09375 -6.5625 C 7.09375 -5.539062 7.601562 -5.03125 8.625 -5.03125 L 10.453125 -5.03125 C 11.472656 -5.03125 11.984375 -5.539062 11.984375 -6.5625 L 11.984375 -11.640625 L 2.9375 -14.625 C 2.25 -14.851562 1.90625 -15.320312 1.90625 -16.03125 L 1.90625 -25.046875 C 1.90625 -26.847656 2.375 -28.210938 3.3125 -29.140625 C 4.257812 -30.066406 5.625 -30.53125 7.40625 -30.53125 Z M 7.40625 -30.53125 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffbd59" fill-opacity="1">
-    <g transform="translate(152.886602, 46.816421)">
-      <g>
-        <path
-          d="M 1.75 -30.53125 L 15.796875 -30.53125 C 16.203125 -30.53125 16.40625 -30.328125 16.40625 -29.921875 L 16.40625 -26.109375 C 16.40625 -25.703125 16.203125 -25.5 15.796875 -25.5 L 11.375 -25.5 L 11.375 -0.609375 C 11.375 -0.203125 11.171875 0 10.765625 0 L 6.796875 0 C 6.390625 0 6.1875 -0.203125 6.1875 -0.609375 L 6.1875 -25.5 L 1.75 -25.5 C 1.34375 -25.5 1.140625 -25.703125 1.140625 -26.109375 L 1.140625 -29.921875 C 1.140625 -30.328125 1.34375 -30.53125 1.75 -30.53125 Z M 1.75 -30.53125 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffffff" fill-opacity="1">
-    <g transform="translate(171.982213, 46.816421)">
-      <g>
-        <path
-          d="M 7.40625 -30.53125 L 11.6875 -30.53125 C 13.488281 -30.53125 14.851562 -30.066406 15.78125 -29.140625 C 16.707031 -28.210938 17.171875 -26.847656 17.171875 -25.046875 L 17.171875 -21 C 17.171875 -20.59375 16.96875 -20.390625 16.5625 -20.390625 L 12.59375 -20.390625 C 12.1875 -20.390625 11.984375 -20.59375 11.984375 -21 L 11.984375 -23.96875 C 11.984375 -24.988281 11.472656 -25.5 10.453125 -25.5 L 8.625 -25.5 C 7.601562 -25.5 7.09375 -24.988281 7.09375 -23.96875 L 7.09375 -18.703125 L 16.1875 -15.734375 C 16.84375 -15.453125 17.171875 -14.976562 17.171875 -14.3125 L 17.171875 -5.5 C 17.171875 -3.71875 16.707031 -2.351562 15.78125 -1.40625 C 14.851562 -0.46875 13.488281 0 11.6875 0 L 7.40625 0 C 5.625 0 4.257812 -0.46875 3.3125 -1.40625 C 2.375 -2.351562 1.90625 -3.71875 1.90625 -5.5 L 1.90625 -9.5 C 1.90625 -9.90625 2.109375 -10.109375 2.515625 -10.109375 L 6.484375 -10.109375 C 6.890625 -10.109375 7.09375 -9.90625 7.09375 -9.5 L 7.09375 -6.5625 C 7.09375 -5.539062 7.601562 -5.03125 8.625 -5.03125 L 10.453125 -5.03125 C 11.472656 -5.03125 11.984375 -5.539062 11.984375 -6.5625 L 11.984375 -11.640625 L 2.9375 -14.625 C 2.25 -14.851562 1.90625 -15.320312 1.90625 -16.03125 L 1.90625 -25.046875 C 1.90625 -26.847656 2.375 -28.210938 3.3125 -29.140625 C 4.257812 -30.066406 5.625 -30.53125 7.40625 -30.53125 Z M 7.40625 -30.53125 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffffff" fill-opacity="1">
-    <g transform="translate(192.592894, 46.816421)">
-      <g>
-        <path
-          d="M 17.21875 -25.046875 L 17.21875 -20.921875 C 17.21875 -20.515625 17.015625 -20.3125 16.609375 -20.3125 L 12.78125 -20.3125 C 12.375 -20.3125 12.171875 -20.515625 12.171875 -20.921875 L 12.171875 -23.96875 C 12.171875 -24.988281 11.664062 -25.5 10.65625 -25.5 L 8.671875 -25.5 C 7.648438 -25.5 7.140625 -24.988281 7.140625 -23.96875 L 7.140625 -6.5625 C 7.140625 -5.539062 7.648438 -5.03125 8.671875 -5.03125 L 10.65625 -5.03125 C 11.664062 -5.03125 12.171875 -5.539062 12.171875 -6.5625 L 12.171875 -9.625 C 12.171875 -10.03125 12.375 -10.234375 12.78125 -10.234375 L 16.609375 -10.234375 C 17.015625 -10.234375 17.21875 -10.03125 17.21875 -9.625 L 17.21875 -5.5 C 17.21875 -3.71875 16.742188 -2.351562 15.796875 -1.40625 C 14.859375 -0.46875 13.5 0 11.71875 0 L 7.4375 0 C 5.65625 0 4.285156 -0.46875 3.328125 -1.40625 C 2.378906 -2.351562 1.90625 -3.71875 1.90625 -5.5 L 1.90625 -25.046875 C 1.90625 -26.847656 2.378906 -28.210938 3.328125 -29.140625 C 4.285156 -30.066406 5.65625 -30.53125 7.4375 -30.53125 L 11.71875 -30.53125 C 13.5 -30.53125 14.859375 -30.066406 15.796875 -29.140625 C 16.742188 -28.210938 17.21875 -26.847656 17.21875 -25.046875 Z M 17.21875 -25.046875 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffffff" fill-opacity="1">
-    <g transform="translate(213.241742, 46.816421)">
-      <g>
-        <path
-          d="M 1.90625 -5.5 L 1.90625 -25.046875 C 1.90625 -26.847656 2.375 -28.210938 3.3125 -29.140625 C 4.257812 -30.066406 5.625 -30.53125 7.40625 -30.53125 L 11.6875 -30.53125 C 13.488281 -30.53125 14.851562 -30.066406 15.78125 -29.140625 C 16.707031 -28.210938 17.171875 -26.847656 17.171875 -25.046875 L 17.171875 -5.5 C 17.171875 -3.71875 16.707031 -2.351562 15.78125 -1.40625 C 14.851562 -0.46875 13.488281 0 11.6875 0 L 7.40625 0 C 5.625 0 4.257812 -0.46875 3.3125 -1.40625 C 2.375 -2.351562 1.90625 -3.71875 1.90625 -5.5 Z M 8.515625 -4.921875 L 10.71875 -4.921875 C 11.738281 -4.921875 12.25 -5.429688 12.25 -6.453125 L 12.25 -24.09375 C 12.25 -25.101562 11.738281 -25.609375 10.71875 -25.609375 L 8.515625 -25.609375 C 7.492188 -25.609375 6.984375 -25.101562 6.984375 -24.09375 L 6.984375 -6.453125 C 6.984375 -5.429688 7.492188 -4.921875 8.515625 -4.921875 Z M 8.515625 -4.921875 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffffff" fill-opacity="1">
-    <g transform="translate(233.852424, 46.816421)">
-      <g>
-        <path
-          d="M 17.59375 -25.046875 L 17.59375 -15.734375 C 17.59375 -13.179688 16.664062 -11.5 14.8125 -10.6875 L 17.4375 -0.6875 C 17.570312 -0.226562 17.394531 0 16.90625 0 L 12.9375 0 C 12.582031 0 12.367188 -0.175781 12.296875 -0.53125 L 9.734375 -10.234375 L 7.09375 -10.234375 L 7.09375 -0.609375 C 7.09375 -0.203125 6.890625 0 6.484375 0 L 2.515625 0 C 2.109375 0 1.90625 -0.203125 1.90625 -0.609375 L 1.90625 -29.921875 C 1.90625 -30.328125 2.109375 -30.53125 2.515625 -30.53125 L 12.09375 -30.53125 C 13.90625 -30.53125 15.273438 -30.066406 16.203125 -29.140625 C 17.128906 -28.210938 17.59375 -26.847656 17.59375 -25.046875 Z M 7.09375 -15.265625 L 10.875 -15.265625 C 11.894531 -15.265625 12.40625 -15.773438 12.40625 -16.796875 L 12.40625 -23.96875 C 12.40625 -24.988281 11.894531 -25.5 10.875 -25.5 L 7.09375 -25.5 Z M 7.09375 -15.265625 " />
-      </g>
-    </g>
-  </g>
-  <g fill="#ffffff" fill-opacity="1">
-    <g transform="translate(254.882943, 46.816421)">
-      <g>
-        <path
-          d="M 17.140625 -29.921875 L 17.140625 -26.109375 C 17.140625 -25.671875 16.9375 -25.453125 16.53125 -25.453125 L 6.984375 -25.453125 L 6.984375 -17.828125 L 14.28125 -17.828125 C 14.6875 -17.828125 14.890625 -17.609375 14.890625 -17.171875 L 14.890625 -13.390625 C 14.890625 -12.960938 14.6875 -12.75 14.28125 -12.75 L 6.984375 -12.75 L 6.984375 -5.03125 L 16.53125 -5.03125 C 16.9375 -5.03125 17.140625 -4.828125 17.140625 -4.421875 L 17.140625 -0.609375 C 17.140625 -0.203125 16.9375 0 16.53125 0 L 2.484375 0 C 2.097656 0 1.90625 -0.203125 1.90625 -0.609375 L 1.90625 -29.921875 C 1.90625 -30.328125 2.097656 -30.53125 2.484375 -30.53125 L 16.53125 -30.53125 C 16.9375 -30.53125 17.140625 -30.328125 17.140625 -29.921875 Z M 17.140625 -29.921875 " />
-      </g>
-    </g>
-  </g>
-  <g clip-path="url(#1f0c792d95)">
-    <g clip-path="url(#6a1d65ec09)">
-      <path fill="#ffbd59"
-        d="M 64.179688 49.210938 L 26.027344 49.210938 L 26.027344 16.171875 L 64.179688 16.171875 Z M 64.179688 49.210938 "
-        fill-opacity="1" fill-rule="nonzero" />
-    </g>
-  </g>
-  <g clip-path="url(#5c146b7c7e)">
-    <g clip-path="url(#8be9d95980)">
-      <path fill="#ffffff"
-        d="M 54.640625 32.6875 L 35.566406 32.6875 L 35.566406 16.167969 L 54.640625 16.167969 Z M 54.640625 32.6875 "
-        fill-opacity="1" fill-rule="nonzero" />
-    </g>
-  </g>
-  <g clip-path="url(#5f36c2f0d9)">
-    <g clip-path="url(#b2f5d321c1)">
-      <path fill="#ffffff"
-        d="M 45.101562 32.6875 L 26.027344 32.6875 L 26.027344 16.167969 L 45.101562 16.167969 Z M 45.101562 32.6875 "
-        fill-opacity="1" fill-rule="nonzero" />
-    </g>
-  </g>
-  <g clip-path="url(#cbc9386c44)">
-    <g clip-path="url(#08118f1641)">
-      <path fill="#ffbd59"
-        d="M 374.996094 65.066406 L 290.523438 65.066406 L 290.523438 0.324219 L 374.996094 0.324219 Z M 374.996094 65.066406 "
-        fill-opacity="1" fill-rule="nonzero" />
-    </g>
-  </g>
-  <g clip-path="url(#bb8ccd363c)">
-    <path fill="#ffbd59"
-      d="M 290.636719 0.324219 L 367.015625 0.324219 L 367.015625 65.070312 L 290.636719 65.070312 Z M 290.636719 0.324219 "
-      fill-opacity="1" fill-rule="nonzero" />
-  </g>
-  <text x="308" y="45" class="score">1.9</text>
-
+ </g>
 </svg>
